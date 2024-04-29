@@ -25,15 +25,15 @@ Feel free to explore each directory for detailed explanations, implementations, 
 
 ### Data Structures
 
-1. [LinkedList](./DataStructures/LinkedList/README.md)
-2. [Stack](./DataStructures/Stack/README.md)
-3. [Queue](./DataStructures/Queue/README.md)
-4. [Tree](./DataStructures/Tree/README.md)
-5. [Graph](./DataStructures/Graph/README.md)
-6. [HashTable](./DataStructures/HashTable/README.md)
-7. [Heap](./DataStructures/Heap/README.md)
-8. [Trie](./DataStructures/Trie/README.md)
-9. [...](./DataStructures/README.md) (Other data structures)
+1. [LinkedList](./LinkedList/README.md)
+2. [Stack](./Stack/README.md)
+3. [Queue](.//Queue/README.md)
+4. [Tree](./Tree/README.md)
+5. [Graph](./Graph/README.md)
+6. [HashTable](./HashTable/README.md)
+7. [Heap](./Heap/README.md)
+8. [Trie](./Trie/README.md)
+9. [...](./Data Structures/README.md) (Other data structures)
 
 ### Algorithms
 
