@@ -68,9 +68,12 @@ Please ensure your code follows the repository's code style and includes appropr
 This project is licensed under the MIT License, which allows for both personal and commercial use. See the LICENSE file for more details.
 
 ## 🙏 Acknowledgements
-GeeksforGeeks - Data Structures
-LeetCode
-Java Documentation
+> GeeksforGeeks - Data Structures
+
+> LeetCode
+
+>Java Documentation
+> 
 Thank you for visiting and contributing to this repository!
 
 # 🚀 Happy Coding! 🌟
